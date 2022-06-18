@@ -1,0 +1,8 @@
+Ejecución:
+
+python main2.py 
+
+
+Preguntas:
+
+Las preguntas cambian de orden aleatoriamente. Se puede verificar desde el segundo intento.
