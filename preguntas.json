@@ -1,0 +1,27 @@
+{
+    "capital":{
+        "pregunta":"¿Capital de Chile?",
+        "opciones":["Santiago", "Concepcion", "Rancagua", "Valdivia", "Valparaiso"],
+        "correcta":"Santiago"
+    },
+    "hierro":{
+        "pregunta":"¿Simbolo quimico del Hierro?",
+        "opciones":["Fe", "Ag", "Pt", "H2O", "Au"],
+        "correcta":"Fe"
+    },
+    "raiz":{
+        "pregunta":"¿Raiz cubica de 216?",
+        "opciones":[6, 16, 12, 36, 18],
+        "correcta":6
+    },
+    "bootcamp":{
+        "pregunta":"¿Este bootcamp es de ?",
+        "opciones":["Python", "Java", "R", "Javascript", "Bigdata"],
+        "correcta":"Python"
+    },
+    "codigo":{
+        "pregunta":"¿Codigo telefonico internacional de Chile ?",
+        "opciones":[56, 55, 52, 65, 132],
+        "correcta":56
+    }
+}
